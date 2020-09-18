@@ -38,7 +38,7 @@ This section here belongs and shows how to set up a virtual lab in windows machi
 7.Click Finish when prompted. It's in the lower-right side of the window. Doing so will close the installation window and open VirtualBox. Now that you've installed
 and opened VirtualBox, you can create a virtual machine in order to run any operating system on your PC. 
 
-video tutorial :- SOON TO COME 
+video tutorial :- Comming soon
 
 ## Mac OS
  
@@ -64,7 +64,7 @@ video tutorial :- SOON TO COME
 8. Open VirtualBox. Click Spotlight Image titled Macspotlight.png, type in virtualbox, and double-click VirtualBox in the resulting drop-down menu. Now that
 you've installed and opened VirtualBox, you can create a virtual machine in order to run any operating system on your Mac. 
 
-video tutorial:- SOON TO COME 
+video tutorial:- Comming soon 
 
 ## linux OS
 1.  Open Terminal. This step will vary depending on your version of Linux, but you can usually open Terminal by selecting Image titled Macterminal.png
@@ -85,7 +85,7 @@ Terminal has successfully installed VirtualBox and is awaiting further commands.
 6.In terminal type in virtualbox and press Enter . This will prompt the VirtualBox main window to open. Now that you've installed and opened VirtualBox, you 
 can proceed with creating a virtual machine in order to run any operating system on your computer.
 
-video tutorial :- SOON TO COME 
+video tutorial :- Comming soon 
 
 ## Creating A Virtual Machine 
 Now that we have the virtualization host software installed, let’s start downloading some virtual machines. The first virtual machine we will install 
@@ -107,7 +107,7 @@ in that file to create the virtual machine.
 
 4.Click the Start icon to Start using Kali.
 
-video tutorial :- SOON TO COME 
+video tutorial :- Comming soon
 
 
 
