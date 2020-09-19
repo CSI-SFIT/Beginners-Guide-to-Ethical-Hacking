@@ -21,7 +21,7 @@
   Target is the target specification which can be a single host, a list of host names or IPs,or a full network.
   
   example 
-  root@bt:~/nmap_scans# nmap -sn --send-ip 192.168.1.0/24 -oA
+  root@HARM:~/nmap_scans# nmap -sn --send-ip 192.168.1.0/24 -oA
   
   nmap-sweep
   
