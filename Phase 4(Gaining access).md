@@ -50,20 +50,20 @@
   
  ## Different Method of DoS Attacks
  
-    DoS attacks come in different categories such as: bandwidth attacks, connectivity attacks, process disruption, physical disruption 
+   DoS attacks come in different categories such as: bandwidth attacks, connectivity attacks, process disruption, physical disruption 
 	and data corruption.
    
-    The most common method of attacks, Flooding services, occurs when the cloud network gets flooded with traffic by receiving several 
+   The most common method of attacks, Flooding services, occurs when the cloud network gets flooded with traffic by receiving several 
 	requests at once and getting overloaded, causing the server to slow down and eventually stop responding.
     Buffer overflow attack is a software coding mistake that an attacker uses by sending more traffic to a network address to gain access
 	to the system.
    
-    ICMP flood, also known as smurf attack or ping of death, effects misconfigured network devices by attacking when the system receives 
+   ICMP flood, also known as smurf attack or ping of death, effects misconfigured network devices by attacking when the system receives 
 	too many ICMP ping commands.
-    Another attack, SYN flood also known as half-open attack, repeatedly sends a request to connect to a targeted server machine to 
+   Another attack, SYN flood also known as half-open attack, repeatedly sends a request to connect to a targeted server machine to 
 	overwhelm all open ports, but never completes the handshake, causing the targeted server to poorly respond or not respond at all.
     
-	Click [here](https://www.rapid7.com/fundamentals/denial-of-service-attacks) to know more.
+Click [here](https://www.rapid7.com/fundamentals/denial-of-service-attacks) to know more.
   # Session hijacking
   Session hijacking is when an attacker takes over a TCP session between two machines, quite often in midstream, and usually for the purposes
   of either stealing information or disrupting or inhibiting the flow of information.
