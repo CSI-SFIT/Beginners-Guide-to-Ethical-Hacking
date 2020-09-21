@@ -24,4 +24,4 @@ Critical items are in the 1 – 3 month timeline and non-critical findings are i
 
 I like to make it very easy for the client to see what they need to address, what is most critical, and just how critical it is.
 
-
+Visit [here](https://www.tutorialspoint.com/penetration_testing/penetration_testing_report_writing.htm) for more info.
