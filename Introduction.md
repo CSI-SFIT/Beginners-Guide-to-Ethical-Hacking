@@ -13,8 +13,7 @@ penetration test on them.
 
 ## 2. Grey hat hackers
 
-These are the one which are also known as ethical hackers. They mostly work into protecting a special asset by live monitoring them and by conducting 
-penetration test on them.
+These are the one which does not intend to harm any organisation or assets as black hat hackers, but they use illegal means to discover threads/vulnerabilities in any organisation and use it to teach them a lesson. They can be called as activists. The best example of grey hat hackers is a group named "ANONYMOUS".
 
 ## 3. Black hat hackers
 
